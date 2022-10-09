@@ -1,6 +1,6 @@
 - (.づ◡﹏◡)づ.
 -👋 Hi, I’m @YeiYei7.
-- 👀 I’m interested in Tech and C0ding.
+- 👀 I’m interested in Tech and Security.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on some new projects.
 - 📫 reach me @YeiYei7.
